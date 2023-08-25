@@ -1,7 +1,4 @@
-# Psy8Toolbox
+# Room Calibration Plugin for Unreal Engine 
 
-UE4 Toolbox Plugin for experiements
-
-clone into the Plugins Folder of UE4 Project
-
-Developed with Unreal Engine 4
+This plugin allows to align a virtual room to a real room.
+See Wiki for Documentation
